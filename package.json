@@ -12,5 +12,6 @@
   "bugs": {
     "url": "https://github.com/paulpestov/tailwind-column-offsets/issues"
   },
-  "homepage": "https://github.com/paulpestov/tailwind-column-offsets#readme"
+  "homepage": "https://github.com/paulpestov/tailwind-column-offsets#readme",
+  "keywords": ["tailwindcss", "tailwind", "column", "offset"]
 }
