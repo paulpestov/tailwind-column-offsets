@@ -34,6 +34,6 @@ module.exports = function () {
       '.offset-11': {
         marginLeft: '91.66666667%'
       },
-    })
+    }, ['responsive'])
   }
 }
