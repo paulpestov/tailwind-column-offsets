@@ -1,6 +1,6 @@
 {
-  "name": "@paulpestov/tailwind-column-offsets",
-  "version": "0.0.1",
+  "name": "@paulpestov/tailwindss-column-offsets",
+  "version": "0.0.2",
   "description": "Simple TailwindCSS plugin which adds column offsets for a 12-column grid.",
   "main": "index.js",
   "repository": {
@@ -12,8 +12,5 @@
   "bugs": {
     "url": "https://github.com/paulpestov/tailwind-column-offsets/issues"
   },
-  "homepage": "https://github.com/paulpestov/tailwind-column-offsets#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/paulpestov/tailwind-column-offsets#readme"
 }
